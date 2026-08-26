@@ -1,7 +1,7 @@
 ---
 name: 文本去AI味润色器
 version: 1.0.0
-author: content-matrix
+author: 局内人·老K
 ---
 
 # 文本去AI味润色器
